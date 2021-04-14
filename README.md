@@ -1,8 +1,8 @@
-# [JavaScript Drum Kit]()
+# [JavaScript Drum Kit](https://sctlcd.github.io/javascript-drum-kit/)
 
-<img src="https://github.com/sctlcd/javascript-drum-kit/blob/master/assets/images/" alt="JavaScript Drum Kit" width="700">
+<img src="https://github.com/sctlcd/javascript-drum-kit/blob/master/assets/images/javascript_drum_kit_multi_device_website_mockup.png" alt="JavaScript Drum Kit" width="700">
 
-[Let's play!]()
+[Let's play!](https://sctlcd.github.io/javascript-drum-kit/)
 
 ---
 
