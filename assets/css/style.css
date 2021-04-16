@@ -64,8 +64,7 @@ footer {
   font-weight: bold;
 }
 
-footer,
-.push {
+footer{
   height: 3rem;
 }
 
